@@ -105,31 +105,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+    }
     // 你可以不断按格式往下增加
     // ...
   ],
@@ -209,7 +185,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2020-09-01"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
